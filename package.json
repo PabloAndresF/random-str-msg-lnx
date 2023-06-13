@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-lnx",
+  "version": "1.0.0",
+  "description": "Es un ejemplo de como crear un paquete en npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloAndresF/random-str-msg-lnx.git"
+  },
+  "keywords": [],
+  "author": "Pablo Fajardo <pablofajardoruano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloAndresF/random-str-msg-lnx/issues"
+  },
+  "homepage": "https://github.com/PabloAndresF/random-str-msg-lnx#readme",
+  "bin": {
+    "random-str-msg-lnx": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {}
+}
